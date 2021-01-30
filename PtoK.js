@@ -1,7 +1,7 @@
 /* Defining Table
- INPUT:  Get two numbers from two different input boxes - x and y
- PROCESSING: Add the two numbers together store in sum
- OUTPUT: Display sum on the document
+ INPUT:  get a value pounds
+ PROCESSING: converts the pounds value to kilograms
+ OUTPUT: the result of the conversion from pounds to kilograms
 */ 
 
 function PtoK() {
